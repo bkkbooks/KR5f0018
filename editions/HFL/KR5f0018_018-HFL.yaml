@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0018/HFL/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 淮南鴻烈解卷之十七
+  hash: sha256:168aa2c862840dae36b15938da3c974014aec56d55d1e2de80ccd5ccf011b8ba
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5f0018_HFL_018-001a, image: hfl/0865/0865-133.png}
+metadata:
+  title: 淮南鴻烈解
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-08-29 02:19:10.110199'
+  source:
+    repository: kanripo
+    path: KR5f0018/KR5f0018_018.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:70b9baf44c2e76fcf48d89022f75bd6c9be0b6893d3b9c8bc2a5221fbd624275

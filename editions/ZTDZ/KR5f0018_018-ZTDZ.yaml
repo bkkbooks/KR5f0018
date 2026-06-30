@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0018/ZTDZ/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 淮南鴻烈解卷之十七
+  hash: sha256:168aa2c862840dae36b15938da3c974014aec56d55d1e2de80ccd5ccf011b8ba
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5f0018_SJB_018-280088a, image: sjb/28/280088a.png}
+metadata:
+  title: 淮南鴻烈解
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-29 02:19:10.110199'
+  source:
+    repository: kanripo
+    path: KR5f0018/KR5f0018_018.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:6b60c6ffafd098fb319f870063879e5dacd9f3d85076c1345dd6af6470d9ac46

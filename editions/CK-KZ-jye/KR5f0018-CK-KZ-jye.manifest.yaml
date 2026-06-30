@@ -1,0 +1,557 @@
+canonical_identifier: bkk:krp/KR5f0018/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5f0018/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 淮南鴻烈解
+  date: '2015-08-29 02:19:10.110199'
+  source:
+    repository: kanripo
+    path: KR5f0018
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5f0018_000-CK-KZ-jye.yaml, hash: 'sha256:d0c5857e6907d0a224526b4759d1b13e1852594eb6ebee857143892f99109cf7'}
+  - {seq: 1, filename: KR5f0018_001-CK-KZ-jye.yaml, hash: 'sha256:52c1571f949967c2216d4429268dc8fb65af22786189b5a572aa8d33eae3d737'}
+  - {seq: 2, filename: KR5f0018_002-CK-KZ-jye.yaml, hash: 'sha256:c84f05b1ab2ae32c51faabb5dd7fcaac99bb160df12a7e19294a62e8ab1cddf0'}
+  - {seq: 3, filename: KR5f0018_003-CK-KZ-jye.yaml, hash: 'sha256:acb23fc3d99dbee6484ee7192e54088e0613ac3c4277435b4286bb7b7c957283'}
+  - {seq: 4, filename: KR5f0018_004-CK-KZ-jye.yaml, hash: 'sha256:bbf3b5a79a436d1a91ea0f4f4ced98d6ddd9e8ae89df7c7cdca542c69721da14'}
+  - {seq: 5, filename: KR5f0018_005-CK-KZ-jye.yaml, hash: 'sha256:4aa135438f0379d6c2b9a4e8e1bb2915fa5dfdd4fc3f5854909fbafd2afc6348'}
+  - {seq: 6, filename: KR5f0018_006-CK-KZ-jye.yaml, hash: 'sha256:06429930fea03adc99259ed77efb4881052558608cc6a51f8f714a6e6da6032a'}
+  - {seq: 7, filename: KR5f0018_007-CK-KZ-jye.yaml, hash: 'sha256:d2982ad29500318c529b31c2e98a67c7b3951e2c5ed38761401d23a6504ba247'}
+  - {seq: 8, filename: KR5f0018_008-CK-KZ-jye.yaml, hash: 'sha256:2cb80c86bf0ee5bce2c9bc703019fc6da9b4aef2604f57bc782e9e99b8ec27d5'}
+  - {seq: 9, filename: KR5f0018_009-CK-KZ-jye.yaml, hash: 'sha256:3770fd8bb7915ae7cd72719604d16d36981b6122e319f6380f8fc72cefee44d8'}
+  - {seq: 10, filename: KR5f0018_010-CK-KZ-jye.yaml, hash: 'sha256:8e3a6a58b8029f4de5ef1f05a11fe7cec6dc982318d1833fd047c0f156a5794d'}
+  - {seq: 11, filename: KR5f0018_011-CK-KZ-jye.yaml, hash: 'sha256:75c9672e792fda4cffad3c1972e043ae31b7a617a76ef61ef2b93d9694edc7d0'}
+  - {seq: 12, filename: KR5f0018_012-CK-KZ-jye.yaml, hash: 'sha256:449de36b40e7e80bbd99a93d4627b06fd70fd4b241fe9e68689f7d9ebe2a0c9e'}
+  - {seq: 13, filename: KR5f0018_013-CK-KZ-jye.yaml, hash: 'sha256:f4427051d28e6216bfe9f981e610bc9404f29148764f3434f66616b1cd811afe'}
+  - {seq: 14, filename: KR5f0018_014-CK-KZ-jye.yaml, hash: 'sha256:f286b39eb0961b98b6fd5e4e5e89cab9c1495e8b4f9ba34b25e8e086b34c8888'}
+  - {seq: 15, filename: KR5f0018_015-CK-KZ-jye.yaml, hash: 'sha256:0f8677d9c839bd092d053fb214a25ddd1766eb73fb025e9e0b7b8a7818d633e9'}
+  - {seq: 16, filename: KR5f0018_016-CK-KZ-jye.yaml, hash: 'sha256:1057bfe916851bdc005b55e4a22445d23e0a134b6f04a9d1c5f9690c6d342258'}
+  - {seq: 17, filename: KR5f0018_017-CK-KZ-jye.yaml, hash: 'sha256:15e4bb1b21b4e140feb32db4933bde9b2938a29d95cad443b005c1c52624a2b7'}
+  - {seq: 18, filename: KR5f0018_018-CK-KZ-jye.yaml, hash: 'sha256:da480cd362231847b5d11584dec3166db08ea650d953062667d86a44b856e0da'}
+  - {seq: 19, filename: KR5f0018_019-CK-KZ-jye.yaml, hash: 'sha256:87471d9625cdf4502bf83f56e6e18bbef27342ec26a4bb62735405697831cab3'}
+  - {seq: 20, filename: KR5f0018_020-CK-KZ-jye.yaml, hash: 'sha256:6aeeef6e5a4e810dcd14da5c08776c4fb6a1ebe383bd352f6bb15d2d0ae49f8f'}
+  - {seq: 21, filename: KR5f0018_021-CK-KZ-jye.yaml, hash: 'sha256:5c5789586271124e168514f0db48ad39d420fd1189abdb67d6da3f34b3e15427'}
+  - {seq: 22, filename: KR5f0018_022-CK-KZ-jye.yaml, hash: 'sha256:f7e365a56dacfc7c448bfbd1d30c1d3488a77795f1bbb7993c7e6cfec5341183'}
+  - {seq: 23, filename: KR5f0018_023-CK-KZ-jye.yaml, hash: 'sha256:76a9fac704409fee5505fb47f4b3a4b5810e42588608351c2fec23dd943cf242'}
+  - {seq: 24, filename: KR5f0018_024-CK-KZ-jye.yaml, hash: 'sha256:13df9186909d670137ffa88865348b09dc1562c1a31277ee1d78467092d20e42'}
+  - {seq: 25, filename: KR5f0018_025-CK-KZ-jye.yaml, hash: 'sha256:4cc7052dfbcb4ef66c9cd85e1e600cc67fd626cb647d7b165c58acc047d2b28b'}
+  - {seq: 26, filename: KR5f0018_026-CK-KZ-jye.yaml, hash: 'sha256:e8821b247ec9c62948c7d15eedc2b046ae0aa889e3bf6fc3ddc30fb377a65bdb'}
+  - {seq: 27, filename: KR5f0018_027-CK-KZ-jye.yaml, hash: 'sha256:2d2e3dff1dda643a259e4d824c320dba7a15c3942bc3df766425cee491fdc4ec'}
+  - {seq: 28, filename: KR5f0018_028-CK-KZ-jye.yaml, hash: 'sha256:e3924848fd715345ab9aaffac42d4c823fe98a3b5046576ebaa8378a93221282'}
+  - {seq: 29, filename: KR5f0018_029-CK-KZ-jye.yaml, hash: 'sha256:e089ef969f83527092b0966c3f84b9a17928fa1c2823f808c224e90bd38376ff'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5f0018_000-CK-KZ-jye.markers.yaml, hash: 'sha256:946409b1b38b78c4fd0a09610d11cd2cbd3da24bcb858f82b41c72bd71a62563'}
+  - {seq: 1, role: markers, filename: assets/KR5f0018_001-CK-KZ-jye.markers.yaml, hash: 'sha256:19c6b3015227ff3fd28d7b7dbee3c2c68e8308af52c8214b1aff054bf77bf59a'}
+  - {seq: 2, role: markers, filename: assets/KR5f0018_002-CK-KZ-jye.markers.yaml, hash: 'sha256:94cb2f3c8674eeec355f14ac7c303ae7c5b1ee696a58cd5fff877de111d951b6'}
+  - {seq: 3, role: markers, filename: assets/KR5f0018_003-CK-KZ-jye.markers.yaml, hash: 'sha256:2ff2242e602811e2208f095a81dc426909351e9b7cfce87ab312d6a35ca5e241'}
+  - {seq: 4, role: markers, filename: assets/KR5f0018_004-CK-KZ-jye.markers.yaml, hash: 'sha256:1cdfc0a064e93b41daeb92a6b961687466459394e80766692e19522439e1e0fb'}
+  - {seq: 5, role: markers, filename: assets/KR5f0018_005-CK-KZ-jye.markers.yaml, hash: 'sha256:34111be683cedc581312f8fa9b1d235de04bdd995bdf6607dc44741458684e36'}
+  - {seq: 6, role: markers, filename: assets/KR5f0018_006-CK-KZ-jye.markers.yaml, hash: 'sha256:ddd1eddd70b55e769204ca7625d0fab81bf395002209ad558dcd3e579c964fe9'}
+  - {seq: 7, role: markers, filename: assets/KR5f0018_007-CK-KZ-jye.markers.yaml, hash: 'sha256:12cd90851008d27e61846be0c7786f3276c67c2112572917b2ab1f264e4bff99'}
+  - {seq: 8, role: markers, filename: assets/KR5f0018_008-CK-KZ-jye.markers.yaml, hash: 'sha256:4d9ae8f31d103ccd413aa2f10c6f259d9e713e0c181f76e8d963b568f3c90f52'}
+  - {seq: 9, role: markers, filename: assets/KR5f0018_009-CK-KZ-jye.markers.yaml, hash: 'sha256:ffbe90a151ce8743d43e6f41f89a77963ab7c23ef48ecc165f2f87e40ce40a6b'}
+  - {seq: 10, role: markers, filename: assets/KR5f0018_010-CK-KZ-jye.markers.yaml, hash: 'sha256:22f503ddbbb58b9909742cf001c379d311d51ac5d861db757946ed73edbcd6ae'}
+  - {seq: 11, role: markers, filename: assets/KR5f0018_011-CK-KZ-jye.markers.yaml, hash: 'sha256:a1dca627052147eadad48c82bd9c6be0f53257657a759ee0c88c4ad9759d72ae'}
+  - {seq: 12, role: markers, filename: assets/KR5f0018_012-CK-KZ-jye.markers.yaml, hash: 'sha256:3a8a0f6df0adbe7b1a6a61710a143df7152e641075b3aca7f2dea9204926af3b'}
+  - {seq: 13, role: markers, filename: assets/KR5f0018_013-CK-KZ-jye.markers.yaml, hash: 'sha256:0fb50cec68a943ac4639ed4b3908f1813a5e9435f46b3f97043555bd3490ed0d'}
+  - {seq: 14, role: markers, filename: assets/KR5f0018_014-CK-KZ-jye.markers.yaml, hash: 'sha256:41a9a651b396766e5284df57211324dd09ec26f68dfb71047ee98259a8923830'}
+  - {seq: 15, role: markers, filename: assets/KR5f0018_015-CK-KZ-jye.markers.yaml, hash: 'sha256:b267fb55edaa18a16ba5493c58a7b7cf60c9f2151b51f92ec0eec09e1045cf56'}
+  - {seq: 16, role: markers, filename: assets/KR5f0018_016-CK-KZ-jye.markers.yaml, hash: 'sha256:bcbf9fc6cfac44d57891ab25bdbb65707778bd59a70bbd6329d831c95c5b6136'}
+  - {seq: 17, role: markers, filename: assets/KR5f0018_017-CK-KZ-jye.markers.yaml, hash: 'sha256:5c419b3befee6c9a442ec8f87323a2ee6fa63a560cfb1ef8b89903e4fa0eb02d'}
+  - {seq: 18, role: markers, filename: assets/KR5f0018_018-CK-KZ-jye.markers.yaml, hash: 'sha256:2eca66a68b0b618edcd43192c157c5c400c15d929172e603cf2e2a0624475622'}
+  - {seq: 19, role: markers, filename: assets/KR5f0018_019-CK-KZ-jye.markers.yaml, hash: 'sha256:287a1156f9ceec109f715d3a2792805ab19050c54ada14897da14f60f2269480'}
+  - {seq: 20, role: markers, filename: assets/KR5f0018_020-CK-KZ-jye.markers.yaml, hash: 'sha256:1e2011adcf7a5f7d127d09389d3b6b2f9842847f560ae135029836ffe546227a'}
+  - {seq: 21, role: markers, filename: assets/KR5f0018_021-CK-KZ-jye.markers.yaml, hash: 'sha256:49274d0f406b8d644e832a4e8477d7b01098c5802841102e0399c23c2779417b'}
+  - {seq: 22, role: markers, filename: assets/KR5f0018_022-CK-KZ-jye.markers.yaml, hash: 'sha256:b26bb807258b4c2144a7685b5d6f5965102681dee54c78483afcc9eb48dce70c'}
+  - {seq: 23, role: markers, filename: assets/KR5f0018_023-CK-KZ-jye.markers.yaml, hash: 'sha256:80e62eda3087a1b462cefc6facb29d233cd457d83bea00a0770c4be78b6b32c1'}
+  - {seq: 24, role: markers, filename: assets/KR5f0018_024-CK-KZ-jye.markers.yaml, hash: 'sha256:675f006ee5bba082e58d690fd3f9c118bc0c6bc273b6c382e8d8e53cc3898243'}
+  - {seq: 25, role: markers, filename: assets/KR5f0018_025-CK-KZ-jye.markers.yaml, hash: 'sha256:5e74ea8b3fe5a4d120ae012d0371718b4b3c138704059227f1b4ce005b418684'}
+  - {seq: 26, role: markers, filename: assets/KR5f0018_026-CK-KZ-jye.markers.yaml, hash: 'sha256:6e7e0cb446146e75beb30ab099262bdf8c8e9845394db0007acba129ebae3697'}
+  - {seq: 27, role: markers, filename: assets/KR5f0018_027-CK-KZ-jye.markers.yaml, hash: 'sha256:a8fbe385bef73fb9ae6cd73c08c90df4cee723a63ce3a7e801662cb9caadacb2'}
+  - {seq: 28, role: markers, filename: assets/KR5f0018_028-CK-KZ-jye.markers.yaml, hash: 'sha256:5f7107de2624f55e9ac1e9c7be1dec4cb5e9a21d053da58299f592cae97d0c8b'}
+  - {seq: 29, role: markers, filename: assets/KR5f0018_029-CK-KZ-jye.markers.yaml, hash: 'sha256:af1772dcfe27e94e0a31775d89bc538b256e313a1165d6e8f321a2f21a502c1e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5f0018_CK-KZ-jye_000-h1
+    span:
+    - body
+    - 0
+    - 790
+  label: 淮南鴻烈解叙
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5f0018_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 0
+    - 4668
+  label: 原道訓上(原本也本道根眞包裹天地以厯萬物故曰原道因¶以題篇)
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5f0018_CK-KZ-jye_002-h1
+    span:
+    - body
+    - 0
+    - 5851
+  label: 原道訓下
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5f0018_CK-KZ-jye_003-h1
+    span:
+    - body
+    - 0
+    - 4617
+  label: 俶眞訓上(俶始也眞實說道之實始於無有化育於有故曰俶¶眞因以題篇)
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5f0018_CK-KZ-jye_004-h1
+    span:
+    - body
+    - 0
+    - 3739
+  label: 俶眞訓下
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5f0018_CK-KZ-jye_005-h1
+    span:
+    - body
+    - 0
+    - 4202
+  label: 天文訓上(文者象也天先垂文象日月五星及彗孛皆謂以譴¶告一人故曰天文因以題篇)
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5f0018_CK-KZ-jye_006-h1
+    span:
+    - body
+    - 0
+    - 5481
+  label: 天文訓下
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5f0018_CK-KZ-jye_007-h1
+    span:
+    - body
+    - 0
+    - 3996
+  label: 地形訓上(紀東西南北山川藪澤地之所載萬物形兆所化育¶也故形因以題篇)
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5f0018_CK-KZ-jye_008-h1
+    span:
+    - body
+    - 0
+    - 3520
+  label: 地形訓下
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR5f0018_CK-KZ-jye_009-h1
+    span:
+    - body
+    - 0
+    - 5460
+  label: 時則訓上(則法也四時寒暑十二月之常法故曰時則因以題¶篇也)
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5f0018_CK-KZ-jye_010-h1
+    span:
+    - body
+    - 0
+    - 6953
+  label: 時則訓下
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR5f0018_CK-KZ-jye_011-h1
+    span:
+    - body
+    - 0
+    - 6915
+  label: 覽㝠訓(覽觀幽㝠變化之端至精感天通達無極故曰覽㝠因以¶題篇)
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR5f0018_CK-KZ-jye_012-h1
+    span:
+    - body
+    - 0
+    - 8426
+  label: 精神訓(精者人之氣神者人之守也本其原說其意故曰精神因¶以題篇)
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR5f0018_CK-KZ-jye_013-h2
+    span:
+    - body
+    - 0
+    - 7852
+  label: 本經訓(本始也經常也天經造化出於道治亂之由得失有常故¶曰本經因以題篇也)
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR5f0018_CK-KZ-jye_014-h1
+    span:
+    - body
+    - 0
+    - 5959
+  label: 主術訓上(主君也術道也君之宰國統御臣下五帝三王以來¶無不用道而興故曰主術也因以題篇)
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR5f0018_CK-KZ-jye_015-h1
+    span:
+    - body
+    - 0
+    - 7476
+  label: 主術訓下
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR5f0018_CK-KZ-jye_016-h1
+    span:
+    - body
+    - 0
+    - 7390
+  label: 繆稱訓(繆異之論稱物假類同之神明以知所貴)
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR5f0018_CK-KZ_03p052a
+    span:
+    - body
+    - 0
+    - 0
+  label: juan 017
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR5f0018_CK-KZ-jye_018-h3
+    span:
+    - body
+    - 0
+    - 4717
+  label: 原道訓上(原本也本道根眞包裹天地以厯萬物故曰原道因¶以題篇)
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5f0018_CK-KZ-jye_018-h4
+    span:
+    - body
+    - 4717
+    - 10657
+  label: 原道訓下
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5f0018_CK-KZ-jye_018-h5
+    span:
+    - body
+    - 10657
+    - 15369
+  label: 俶眞訓上(俶始也眞實說道之實始於無有化育於有故曰俶¶眞因以題篇)
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5f0018_CK-KZ-jye_018-h6
+    span:
+    - body
+    - 15369
+    - 19422
+  label: 俶眞訓下
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5f0018_CK-KZ-jye_018-h7
+    span:
+    - body
+    - 19422
+    - 23801
+  label: 天文訓上(文者象也天先垂文象日月五星及彗孛皆謂以譴¶告一人故曰天文因以題篇)
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5f0018_CK-KZ-jye_018-h8
+    span:
+    - body
+    - 23801
+    - 29429
+  label: 天文訓下
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5f0018_CK-KZ-jye_018-h9
+    span:
+    - body
+    - 29429
+    - 33524
+  label: 地形訓上(紀東西南北山川藪澤地之所載萬物形兆所化育¶也故形因以題篇)
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5f0018_CK-KZ-jye_018-h10
+    span:
+    - body
+    - 33524
+    - 37200
+  label: 地形訓下
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5f0018_CK-KZ-jye_018-h11
+    span:
+    - body
+    - 37200
+    - 42823
+  label: 時則訓上(則法也四時寒暑十二月之常法故曰時則因以題¶篇也)
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5f0018_CK-KZ-jye_018-h12
+    span:
+    - body
+    - 42823
+    - 49776
+  label: 時則訓下
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5f0018_CK-KZ-jye_018-h13
+    span:
+    - body
+    - 49776
+    - 56732
+  label: 覽㝠訓(覽觀幽㝠變化之端至精感天通達無極故曰覽㝠因以¶題篇)
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5f0018_CK-KZ-jye_018-h14
+    span:
+    - body
+    - 56732
+    - 65164
+  label: 精神訓(精者人之氣神者人之守也本其原說其意故曰精神因¶以題篇)
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5f0018_CK-KZ-jye_018-h15
+    span:
+    - body
+    - 65164
+    - 65168
+  label: 淮南鴻烈解¶¶¶¶¶¶<md:KR5f0018_HFL_013-001a>
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR5f0018_CK-KZ-jye_018-h16
+    span:
+    - body
+    - 65168
+    - 73020
+  label: 本經訓(本始也經常也天經造化出於道治亂之由得失有常故¶曰本經因以題篇也)
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5f0018_CK-KZ-jye_018-h17
+    span:
+    - body
+    - 73020
+    - 78979
+  label: 主術訓上(主君也術道也君之宰國統御臣下五帝三王以來¶無不用道而興故曰主術也因以題篇)
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5f0018_CK-KZ-jye_018-h18
+    span:
+    - body
+    - 78979
+    - 86707
+  label: 主術訓下
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5f0018_CK-KZ-jye_018-h19
+    span:
+    - body
+    - 86707
+    - 94234
+  label: 繆稱訓(繆異之論稱物假類同之神明以知所貴)
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5f0018_CK-KZ-jye_018-h20
+    span:
+    - body
+    - 94234
+    - 102940
+  label: 齊俗訓(齊一也四宇之風世之眾理皆混其俗令爲一道也)
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR5f0018_CK-KZ-jye_019-h1
+    span:
+    - body
+    - 0
+    - 10541
+  label: 道應訓(道之所行物動而應考之禍福以知驗符也)
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR5f0018_CK-KZ-jye_020-h1
+    span:
+    - body
+    - 0
+    - 8095
+  label: 氾論訓上(博說世間古今得失以道爲化大歸於一故曰氾論¶因以題篇)
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR5f0018_CK-KZ-jye_021-h1
+    span:
+    - body
+    - 0
+    - 5595
+  label: 氾論訓下
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR5f0018_CK-KZ-jye_022-h1
+    span:
+    - body
+    - 0
+    - 7053
+  label: 詮言訓(詮就也就萬物之指以言其微事之所謂道之所依也)
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR5f0018_CK-KZ-jye_023-h2
+    span:
+    - body
+    - 0
+    - 8845
+  label: 兵略訓(兵防也防亂之萌皆在略謀解喻至論用師之意也)
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR5f0018_CK-KZ-jye_024-h1
+    span:
+    - body
+    - 0
+    - 10683
+  label: 說山訓(山爲道本仁者所處說道之旨委積若山故曰說山因以¶題篇)
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR5f0018_CK-KZ-jye_025-h1
+    span:
+    - body
+    - 0
+    - 8437
+  label: 說林訓(木叢生曰林說萬物承阜若林之聚矣故曰說林因以題¶篇也)
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR5f0018_CK-KZ-jye_026-h1
+    span:
+    - body
+    - 0
+    - 11441
+  label: 人間訓(人間之事吉凶之中徵得失之端反存亡之幾也)
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR5f0018_CK-KZ-jye_027-h1
+    span:
+    - body
+    - 0
+    - 9438
+  label: 修務訓(修勉務趍聖人趍時冠危弗顧履遺不取必用仁義之道¶以濟萬民故曰脩務因以題篇)
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR5f0018_CK-KZ-jye_028-h1
+    span:
+    - body
+    - 0
+    - 10052
+  label: 泰族訓(泰言古今之道萬物之指族於一理明其所謂也)
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR5f0018_CK-KZ-jye_029-h1
+    span:
+    - body
+    - 0
+    - 3882
+  label: 要畧(凡鴻烈之書二十篇畧數其要明其所指序其微妙論其大體)
+  type: section
+  level: 2
+hash: sha256:0c6596cca9a4208fa63c3fffc50e8301a7e3cab7993d0db61dcff1f27e90d4c3

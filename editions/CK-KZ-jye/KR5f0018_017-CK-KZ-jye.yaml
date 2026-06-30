@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR5f0018/CK-KZ-jye/v1/juan/17
+seq: 17
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5f0018_CK-KZ_03p052a, image: JY143/CK-KZ_JY143_03p052a.png}
+metadata:
+  title: 淮南鴻烈解
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-29 02:19:10.110199'
+  source:
+    repository: kanripo
+    path: KR5f0018/KR5f0018_017.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:15e4bb1b21b4e140feb32db4933bde9b2938a29d95cad443b005c1c52624a2b7

@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5f0018/SBCK/v1/juan/17
+seq: 17
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一
+  hash: sha256:51a75f4634dfa8598a0a1436da0b7764830edd1f3a97661222387da2fe2b38d1
+metadata:
+  title: 淮南鴻烈解
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-29 02:19:10.110199'
+  source:
+    repository: kanripo
+    path: KR5f0018/KR5f0018_017.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:42cb53b282551a633f7c61dcd06ea4e5a6b685763f151553254c2699716872b5

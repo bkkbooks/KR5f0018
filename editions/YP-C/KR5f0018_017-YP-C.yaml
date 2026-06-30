@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0018/YP-C/v1/juan/17
+seq: 17
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5f0018_YP-C_11xuji-07-0052a, image: JY143/11xuji-07-0052a.png}
+metadata:
+  title: 淮南鴻烈解
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+  date: '2015-08-29 02:19:10.110199'
+  source:
+    repository: kanripo
+    path: KR5f0018/KR5f0018_017.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:eff15e0370df5b5930d17adab787483eecae9e46fd3463e66067e6083117bc38
