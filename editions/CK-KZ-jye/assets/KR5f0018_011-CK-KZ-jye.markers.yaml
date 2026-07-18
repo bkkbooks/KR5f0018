@@ -1568,8 +1568,9 @@ markers:
   - {type: line-break, offset: 6877, content: '', id: KR5f0018_CK-KZ_02p094a23}
   - {type: line-break, offset: 6885, content: '', id: KR5f0018_CK-KZ_02p094a24}
   - {type: punctuation, offset: 6887, content: (, id: KR5f0018_CK-KZ-jye_011-bkkpn363}
+  - {type: 'voice:problem', offset: 6887, length: 0, id: KR5f0018_CK-KZ-jye_011-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 6887}
   - {type: 'kr:newline', offset: 6915, content: '
 
       ', id: KR5f0018_CK-KZ-jye_011-bkkkrnewl230}
   back: []
-hash: sha256:a1dca627052147eadad48c82bd9c6be0f53257657a759ee0c88c4ad9759d72ae
+hash: sha256:983e251c93fef10aa87f8ebf10e704ccc8c905fee3fca8f25c03870e88085b77
